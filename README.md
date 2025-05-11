@@ -3,7 +3,7 @@
 Personal portfolio website to showcase my work as a Data Analyst and Software Developer. Built with HTML and CSS, it features projects using Python, SQL, and Power BI, with sections about me, project details, and contact links.
 
 ## Live Demo
-[https://your-username.github.io/your-repo-name](https://your-username.github.io/uriel_portfolio)
+(https://your-username.github.io/uriel_portfolio)
 
 ## Technologies Used
 - HTML5
